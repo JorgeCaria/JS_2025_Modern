@@ -4,5 +4,7 @@
 // console.log(nombre);
 // console.log('****' + nombre + '****'); // ''
 
-let seleccion = confirm('¿Está seguro de borrar esto?');
-console.log(seleccion);
+// let seleccion = confirm('¿Está seguro de borrar esto?');
+// console.log(seleccion);
+
+console.log(global);
